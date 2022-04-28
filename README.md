@@ -12,5 +12,5 @@
 Certifique-se que você tem o [Git](https://git-scm.com/) instalado na sua máquina
 
 ```bash
-git clone https://github.com/di1eg0/ProfileCard.git
+git clone https://github.com/Drahawk/ProfileCard.git
 ```
